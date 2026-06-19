@@ -4,11 +4,11 @@
 
 ## 🚀 Sobre Mí
 
-Soy **Analista TI** con un fuerte enfoque en el desarrollo de software, infraestructura y, actualmente, profundizando en el mundo de los datos. Me apasiona encontrar el valor oculto en la información y construir soluciones robustas.
+Soy **Sociólogo, Programador y Científico de Datos en formación**, desempeñándome actualmente como **Analista TI**. Cuento con más de 5 años de experiencia en el diseño, captura, integración y análisis de datos en contextos de investigación social y de mercado.
 
 * 💼 **Trabajo actual:** Analista TI en **OpinandoOnline** (empresa de encuestas de panel online e investigación de mercado).
-* 🎓 **Educación continua:** Actualmente cursando un **Magíster en Ciencia de Datos** 📊 (aprendiendo a exprimir el verdadero potencial de los datos).
-* 🤝 **Interés de colaboración:** Me entusiasma colaborar en **ingeniería de investigación para innovación social** (mercado, cultura, economía, política) o proyectos nativos de **Ciencia de Datos**.
+* 🎓 **Actualmente aprendiendo:** Cursando un **Magíster en Ciencia de Datos** 📊 (aprendiendo a sacar valor de los datos).
+* 🤝 **Interés de colaboración:** Me entusiasma colaborar en proyectos de ingeniería de investigación o proyectos de ciencia de datos enfocados en áreas social, mercado, opinión pública, cultura, economía o política.
 
 ---
 
