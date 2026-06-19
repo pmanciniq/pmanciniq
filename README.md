@@ -35,17 +35,31 @@ Soy **Sociólogo, Programador y Científico de Datos en formación**, desempeñ�
 
 ### Infraestructura, Servidores & Cloud
 <p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache2"/>
   <img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/digitalocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+### Data Science & Automatización
+<p align="left">
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"/>
 </p>
 
 ### Data BI & Herramientas de Investigación
 <p align="left">
   <img src="https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
   <img src="https://img.shields.io/badge/limesurvey-%235CE625.svg?style=for-the-badge&logo=limesurvey&logoColor=white" alt="LimeSurvey"/>
+  <img src="https://img.shields.io/badge/SPSS-%230073B7.svg?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS"/>
 </p>
 
 ---
